@@ -74,3 +74,5 @@ while GameState == True:
         print("Final Scores:")
         print("Computer:", Score[1])
         print("Player:", Score[0])
+
+input("press enter to exit")
