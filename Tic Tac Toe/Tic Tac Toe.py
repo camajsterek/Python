@@ -93,3 +93,5 @@ elif victor == "Computer":
     print("Unlucky, the computer won!")
 else:
     print("It's a tie...")
+    
+input("press enter to exit")
